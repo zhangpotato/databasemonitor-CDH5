@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Main-Class: com.longdb.Tool
+Class-Path: lib/xmlschema-core-2.0.3.jar lib/woodstox-core-asl-4.2.0.jar
+  lib/commons-logging-1.2.jar lib/commons-codec-1.11.jar lib/simpleclien
+ t_pushgateway-0.10.0.jar lib/wsdl4j-1.6.3.jar lib/cxf-rt-transports-htt
+ p-2.7.7.jar lib/cxf-rt-core-2.7.7.jar lib/cxf-rt-bindings-xml-2.7.7.jar
+  lib/cloudera-manager-api-5.14.2.3351.jar lib/jaxb-impl-2.1.13.jar lib/
+ fastjson-1.2.75.jar lib/cxf-rt-frontend-jaxrs-2.7.7.jar lib/httpclient-
+ 4.5.13.jar lib/stax2-api-3.1.1.jar lib/jsoup-1.13.1.jar lib/simpleclien
+ t_common-0.10.0.jar lib/joda-time-2.1.jar lib/servlet-api-2.5.jar lib/j
+ ackson-jaxrs-json-provider-2.1.0.jar lib/httpcore-4.4.13.jar lib/jaxb-a
+ pi-2.3.0.jar lib/jackson-annotations-2.1.0.jar lib/guava-14.0.jar lib/g
+ eronimo-javamail_1.4_spec-1.7.1.jar lib/javax.ws.rs-api-2.0-m10.jar lib
+ /jackson-module-jaxb-annotations-2.1.0.jar lib/jackson-core-2.1.0.jar l
+ ib/cxf-api-2.7.7.jar lib/jackson-databind-2.1.0.jar lib/simpleclient-0.
+ 10.0.jar
+

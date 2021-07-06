@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.cloudera.api:cloudera-manager-api:5.14.2.3351">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Applications/apache-maven-3.6.0/maven_repository/com/cloudera/api/cloudera-manager-api/5.14.2.3351/cloudera-manager-api-5.14.2.3351.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Applications/apache-maven-3.6.0/maven_repository/com/cloudera/api/cloudera-manager-api/5.14.2.3351/cloudera-manager-api-5.14.2.3351-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Applications/apache-maven-3.6.0/maven_repository/com/cloudera/api/cloudera-manager-api/5.14.2.3351/cloudera-manager-api-5.14.2.3351-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
